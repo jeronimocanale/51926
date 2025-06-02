@@ -1,0 +1,4 @@
+do {
+    puts("Ejecutando...");
+    puts("Fin del proceso.");
+} while (0);

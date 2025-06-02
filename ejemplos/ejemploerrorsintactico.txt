@@ -1,0 +1,5 @@
+do {
+    puts"Falta Parentesis");
+} while (0);
+
+//El error sintactico es debido a la falta de "(" y del ";"

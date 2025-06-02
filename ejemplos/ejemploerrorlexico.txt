@@ -1,0 +1,5 @@
+do {
+    puts("hay un simbolo no permitido@");
+} while (0);
+
+//Mi gramatica no permite el simbolo "@"

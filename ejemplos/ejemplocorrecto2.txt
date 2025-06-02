@@ -1,0 +1,4 @@
+do {
+    puts("Salir del bucle");
+    break;
+} while (1);
